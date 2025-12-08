@@ -1,2 +1,2 @@
 # spartan-spa
-ima for spartan
+ipa file for spartan
